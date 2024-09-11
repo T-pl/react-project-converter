@@ -1,0 +1,19 @@
+main{
+  background: url('./assets/Mask.png') no-repeat;
+  background-size: cover;
+  border: 1px solid green;
+  height: 100vh;
+}
+header {
+  display: flex;
+  gap: 55px;
+  border: 1px solid red;
+  align-items: center;
+}
+.info{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid blue;
+  font-weight: bold;
+  
+}
